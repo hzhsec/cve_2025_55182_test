@@ -12,8 +12,10 @@
 ### 二、参考资料（强烈建议阅读）
 1. 漏洞详细分析文章（中文最全）：  
    https://blog.csdn.net/qq_62275604/article/details/155561777
+   
+   [http://www.hzhsec.top/list/cve漏洞复现/cve-2025-55182/](http://www.hzhsec.top/list/cve%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/cve-2025-55182/)
 
-2. 官方 PoC 与本地复现环境（可一键搭建测试靶机）：  
+3. 官方 PoC 与本地复现环境（可一键搭建测试靶机）：  
    https://github.com/ejpir/CVE-2025-55182-poc/
 
 ### 三、已验证有效 Payload 合集（本工具内置全部）
